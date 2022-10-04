@@ -23,4 +23,6 @@ CHANNELID=對話橋頻道ID
 6.執行run.bat(開機器人，日後開這個就好)
 
 
+
+
 有任何使用的問題私訊本人Discord詢問 杯子小samilcup#0001
