@@ -1,7 +1,7 @@
 # LL-Discord-Bridge
 一個用於Minecraft BDS LL 的Discord聊天橋
 
-_使用前請先下載NodeJS_
+_使用前請先下載[NodeJS](https://nodejs.org/en/)_
 
 使用方法:
 
