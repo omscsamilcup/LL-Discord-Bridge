@@ -10,17 +10,13 @@
 
 3.將<ws.js>檔案移動到伺服器plugins中
 
-4.創建文字檔案並仿造以下格式
+4.輸入.env需要填寫的資料
 
-TOKEN=你機器人token
+TOKEN=機器人TOKEN
 
-CHANNELID=對話橋頻道ID
+CHANNELID=Discord頻道ID
 
-並將其儲存為.env(照打就對了)
-
-5.執行first.bat
-
-6.執行run.bat(開機器人，日後開這個就好)
+5.執行run.bat(開機器人，日後開這個就好)
 
 
 
