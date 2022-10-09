@@ -21,7 +21,7 @@ CHANNELID=Discord頻道ID
 
 !list(查看伺服器綫上玩家)
 
-!tps(查看伺服器TPS)
+!tps(查看伺服器TPS)(需要先裝備此插件https://www.minebbs.com/resources/tps.3066/)
 
 有任何使用的問題私訊本人Discord詢問 杯子小samilcup#0001
 
@@ -49,7 +49,7 @@ CHANNELID=Discord channel ID
 
 !list (view server online players)
 
-!tps (view server TPS)
+!tps (view server TPS)(need to add this plugin in your server first https://www.minebbs.com/resources/tps.3066/)
 
 Have any questions about using private message me on Discord to ask 杯子小samilcup#0001
 
