@@ -17,6 +17,8 @@ TOKEN=機器人TOKEN
 
 CHANNELID=Discord頻道ID
 
+5.執行first.bat
+
 5.執行run.bat(開機器人，日後開這個就好)
 
 !list(查看伺服器綫上玩家)
@@ -44,6 +46,8 @@ Instructions:
 TOKEN=Robot TOKEN
 
 CHANNELID=Discord channel ID
+
+5.Execute first.bat
 
 5. Execute run.bat (open the robot, just open this in the future)
 
