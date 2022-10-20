@@ -19,7 +19,7 @@ CHANNELID=Discord頻道ID
 
 5.執行first.bat
 
-5.執行run.bat(開機器人，日後開這個就好)
+6.執行run.bat(開機器人，日後開這個就好)
 
 !list(查看伺服器綫上玩家)
 
