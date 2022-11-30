@@ -85,8 +85,7 @@ client.on("ready", (msg) => {
                     if (msg.author.id === client.user.id) return;
                     conn.send(JSON.stringify({
                         type: 'Playerlist'
-                    }))
-                }
+                    })}
             }
             if (msg.channel.id === channelId) {
                 if (msg.author.id === client.user.id) return;
@@ -103,6 +102,7 @@ client.on("ready", (msg) => {
                 gomsg: msg.content,
                 sender: msg.author.tag
             }))
+            }
         })
     }).listen(port);
 
