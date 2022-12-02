@@ -25,7 +25,7 @@ CHANNELID=Discord頻道ID
 
 !tps(查看伺服器TPS)(需要先裝備此插件https://www.minebbs.com/resources/tps.3066/)
 
-有任何使用的問題私訊本人Discord詢問 杯子小samilcup#0001
+有任何使用的問題私訊本人Discord詢問 杯子小samilcup#9993
 
 
 A Discord chat bridge for Minecraft BDS LL
@@ -54,6 +54,6 @@ CHANNELID=Discord channel ID
 
 !tps (view server TPS)(need to add this plugin in your server first https://www.minebbs.com/resources/tps.3066/)
 
-Have any questions about using private message me on Discord to ask 杯子小samilcup#0001
+Have any questions about using private message me on Discord to ask 杯子小samilcup#9993
 
 English By google translate
