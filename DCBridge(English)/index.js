@@ -53,10 +53,10 @@ client.on("ready", (msg) => {
                     channel.send('`[' + Message.time + ' | 玩家非正常死亡]' + '玩家 ' + Message.player + Message.randomtext + '`')
                     break;
                 case 'PlayerJoin':
-                    channel.send('`[' + Message.time + ' | Player Join]' + 'Player ' + Message.JoinPlayer + 'Join`')
+                    channel.send('`[' + Message.time + ' | Player Join]' + 'Player ' + Message.JoinPlayer + ' Join`')
                     break;
                 case 'PlayerLeft':
-                    channel.send('`[' + Message.time + ' | Player Left]' + 'Player ' + Message.LeftPlayer + 'Left`')
+                    channel.send('`[' + Message.time + ' | Player Left]' + 'Player ' + Message.LeftPlayer + ' Left`')
                     break;
                 case 'Playerlist':
                     console.log('list')
