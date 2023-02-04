@@ -161,6 +161,7 @@ WS.listen('onTextReceived', function(msg) {
     switch (Message.type) {
         case 'message':
             mc.runcmdEx(`tellraw @a {"rawtext":[{"text":"§d[§bDiscord§d] §e${Message.sender}: ${Message.gomsg}"}]}`);
+            colorLog('blue',`[Discord] ${Message.sender}: ${Message.gomsg}`)
             break;
         case 'Playerlist':
             var result = mc.runcmdEx("list");
